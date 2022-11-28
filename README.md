@@ -45,4 +45,3 @@ docker-compose up
 - Creating cinema halls
 - Adding movie sessions
 - Filtering movies and movie sessions
-- 
